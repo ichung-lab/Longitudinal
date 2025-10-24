@@ -8,7 +8,6 @@ This repository contains the code described in the paper *Plasma Membrane TRPV4 
 ### Working Environment
 Create a new environment in your local machine using the files in the [Requirements](https://github.com/ichung-lab/Longitudinal/tree/main/Requirements) folder:
 
-```
 - __Linux__ or __Mac__:
 
 ```
