@@ -165,7 +165,7 @@ fprintf('  Adjusted HR = %.2f (95%% CI: %.2f-%.2f), p = %.4f\n', hr_trpv4_adj, l
 fprintf('\nGrade (adjusted for PM-TRPV4 + ER):\n');
 fprintf('  Adjusted HR = %.2f (95%% CI: %.2f-%.2f), p = %.4f\n', hr_grade_adj, lo_grade_adj, hi_grade_adj, p_grade_adj);
 
-%% Subgroup
+%% Subroup
 [or_lg, ci_lg, p_lg, or_hg, ci_hg, p_hg] = subgroup_by_grade(events, TRPV4, HG);
 
 %% 2x2 CONTINGENCY TABLES
@@ -570,3 +570,4 @@ end
 
 
 end
+
