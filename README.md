@@ -23,3 +23,5 @@ conda create --name longitudinal python=3.12
 activate longitudinal
 pip install -r Requirements/requirements.txt
 ```
+## License
+Code licensed under the [MIT License](https://github.com/ichung-lab/Longitudinal/blob/main/LICENSE).
